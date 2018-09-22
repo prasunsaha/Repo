@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AC29-CE15
+
+ Directory of C:\Users\hp\Desktop\MyProject
+
+22/09/2018  01:54 PM    <DIR>          .
+22/09/2018  01:54 PM    <DIR>          ..
+22/09/2018  01:54 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  290,941,480,960 bytes free
